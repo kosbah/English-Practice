@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 /Users/kosbaship/Repositories/Lean-English/English-Practice/_bmad/scripts/resolve_customization.py --skill \"/Users/kosbaship/Repositories/Lean-English/English-Practice/.claude/skills/bmad-cis-problem-solving\" --key workflow)",
+      "Bash(mv \"7-Accent-Reduction-Priority.md\" \"01-accent-drills.md\")",
+      "Bash(mv \"4-American-Replacements.md\" \"03-replacements.md\")",
+      "Bash(mv \"5-Numbers-Money-Dates-Drills.md\" \"04-numbers-dates.md\")",
+      "Bash(mv \"6-Work-Scenario-Scripts.md\" \"05-scenarios.md\")",
+      "Bash(mv \"english-practice-context.md\" \"06-automation-context.md\")"
+    ]
+  }
+}

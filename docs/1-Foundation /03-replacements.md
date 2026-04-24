@@ -1,5 +1,5 @@
-# American Replacements — Miami Style
-## Stop Sounding Formal. Start Sounding Real.
+# American Professional Replacements
+## What to Say Instead — Direct, Confident, Natural.
 
 > **How to use this file:**
 > Pick one section per day. Read each phrase out loud 3 times.
